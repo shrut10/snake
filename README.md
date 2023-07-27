@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Snake Game 🎮</h1>
 
 <p align="center">
-  Welcome to the Snake Game! This is a simple and fun implementation of the classic Snake game using Python and Pygame.
+  Welcome to Shruthi's Snake Game! This is my simple and fun implementation of the classic Snake game using Python and Pygame.
 </p>
 
 <h2>Features 🚀</h2>
